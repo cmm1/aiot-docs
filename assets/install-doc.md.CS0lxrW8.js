@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.DyWQe55L.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"install-doc.md","filePath":"install-doc.md"}'),o={name:"install-doc.md"};function s(c,n,r,l,i,d){return a(),e("div")}const m=t(o,[["render",s]]);export{_ as __pageData,m as default};
